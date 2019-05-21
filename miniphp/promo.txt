@@ -1,0 +1,5 @@
+589p1,promo1,mai,3256,
+589p2,promo2,juillet,2045,
+589p3,promo4,octobre,2014,
+589p4,promo4,avril,2018,
+589p5,promo5,mai,2056,

@@ -1,0 +1,3 @@
+589p2,77p2,drame,amina,2019-05-08,778345480,drame@gmail.com,exclut
+589p1,77p1,thiam,kader,2019-05-08,778345480,drame@gmail.com,exclut
+589p3,77p3,badiane,elina,2019-05-08,778345480,drame@gmail.com,present,
